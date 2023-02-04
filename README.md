@@ -18,7 +18,7 @@ CREATE TABLE TableName(
 	--Your add another column...
 )
 ```
--How to Insert Values into a table. Example
+- How to Insert Values into a table. Example
 ```sql
  INSERT INTO TableName(Name) VALUES('KellynCodes');
 ```
