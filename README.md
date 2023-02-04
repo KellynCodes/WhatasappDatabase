@@ -1,5 +1,5 @@
 # WhatasappDatabase
-﻿## **This github repo contains an SQL query that creates whatsapp look-alike table and also query to INSERT, SELECT and JOIN tables.**
+**This github repo contains an SQL query that creates whatsapp look-alike table and also query to INSERT, SELECT and JOIN tables.**
 
 **The pictures in this repo is an Entity Relationship Diagram(ERD) that shows how the table connect together with primary keys and  thier foreign keys**
 
