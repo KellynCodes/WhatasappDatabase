@@ -13,7 +13,7 @@ CREATE DATABASE DatabaseName;
 - How to create Database table with SQL query. Example:
 ```sql
 CREATE TABLE TableName(
-	Id float PRIMARY KEY AUTHOINCREMENT IDENTITY(1,1) NOT NULL,
+	Id float PRIMARY KEY IDENTITY(1,1) NOT NULL,
 	Name VARCHAR(50) NOT NULL,
 	--Your add another column...
 )
